@@ -1,9 +1,5 @@
-Laptop 
-Books
-Pen 
-Book
-Mobile
-GATE 
-PUBG 
-Waterbottle
-Nailcutter
+General Aptitude
+Control Systems 
+Digital Electronics 
+Communication Systems 
+Mathematics 
